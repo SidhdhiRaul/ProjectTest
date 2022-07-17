@@ -1,5 +1,5 @@
 import { useState,useEffect } from "react";
-import './search.css';
+// import './search.css';
 
 let Jobs = [
     'react', 'javascript'

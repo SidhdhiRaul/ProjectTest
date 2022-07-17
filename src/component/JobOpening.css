@@ -1,0 +1,19 @@
+.jw-label-bordered {
+    height: 25px;
+    font-size: 13px;
+    border: 1px solid #D2D7E7;
+    border-radius: 3px;
+    display: inline-block;
+    padding: 4px 15px;
+    color: #555C6A;
+    background: #D2D7E7;
+}
+.jw-btn-primary, .jw-widget-container .jw-btn-secondary, .jw-widget-container .jw-btn-default {
+    font-weight: bold;
+    font-size: 12px;
+    padding: 0.9rem 1.5rem;
+    border-radius: 4rem;
+    box-shadow: none;
+    text-transform: none;
+    transition: all 0.15s ease-in-out;
+}
